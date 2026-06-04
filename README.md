@@ -2,7 +2,7 @@
 Raycast/Bash script to download NTS mixes and convert them to Opus (or any audio format.)
 
 ## Prerequisites
-- Raycast (this script was made for MacOS).
+- [Raycast](https://www.raycast.com/) (this script was made for MacOS).
 - [everdrone/nts](https://github.com/everdrone/nts/)
 - ffmpeg (install via brew)
 
