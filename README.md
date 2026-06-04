@@ -14,7 +14,9 @@ Raycast/Bash script to download NTS mixes and convert them to Opus (or any audio
 
 ## Install
 Raycast Settings -> Extensions -> Scripts -> + -> Add Script Directory -> Folder where nts.sh is
+
 Alternatively, just place nts.sh in the default directory: ~/Documents
+
 By default, the script will run silently in the background. If you want to see what's actually happening and keep tabs, change @raycastMode to "fullOutput".
 
 As always, read all code before running.
